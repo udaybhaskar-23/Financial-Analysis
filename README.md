@@ -82,10 +82,31 @@ The project now includes a cleaned Apple financial dataset, calculated financial
 
 Apple’s revenue increased from $365.8B in FY2021 to $416.2B in FY2025. Gross margin improved from 41.8% to 46.9%, showing stronger profitability. Free cash flow remained consistently strong, supporting Apple’s financial flexibility and capacity for shareholder returns.
 
+## Forecast Scenario Analysis
+
+The project includes a 3-year forecast model for FY2026 through FY2028 using base case, upside case, and downside case assumptions.
+
+### Revenue Forecast by Scenario
+![Apple Revenue Forecast](visuals/forecast_revenue_scenarios.png)
+
+### Net Income Forecast by Scenario
+![Apple Net Income Forecast](visuals/forecast_net_income_scenarios.png)
+
+### Free Cash Flow Forecast by Scenario
+![Apple Free Cash Flow Forecast](visuals/forecast_free_cash_flow_scenarios.png)
+
+## Forecast Methodology
+
+The forecast model starts with Apple’s FY2025 revenue as the baseline and applies scenario-based assumptions for revenue growth, gross margin, operating margin, net margin, capital expenditures, and free cash flow margin.
+
+## Forecast Scenarios
+
+- **Base Case:** Moderate growth with stable margin performance.
+- **Upside Case:** Stronger revenue growth, margin expansion, and higher free cash flow conversion.
+- **Downside Case:** Slower revenue growth, margin pressure, and lower free cash flow conversion.
+
 ## Next Steps
 
-* Build a 3-year forecast model
-* Create base, upside, and downside scenarios
 * Build an Excel financial model
 * Create a Power BI or Tableau dashboard
 * Publish final executive summary report
