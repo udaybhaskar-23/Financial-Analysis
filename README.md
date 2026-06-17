@@ -45,5 +45,47 @@ The goal of this project is to evaluate Apple’s financial health and create an
 - Executive summary report
 - Business recommendations
 
-## Status
-Project in progress. Cleaned financial dataset, source notes, Python analysis script, and initial financial insights have been added.
+## Current Project Status
+
+The project now includes a cleaned Apple financial dataset, calculated financial ratios, and initial financial performance visuals.
+
+## Key Files Added
+
+* `data/processed/apple_financials_clean.csv`
+* `data/processed/apple_financials_with_ratios.csv`
+* `notebooks/apple_financial_analysis.py`
+* `visuals/revenue_trend.png`
+* `visuals/profitability_margins.png`
+* `visuals/free_cash_flow_trend.png`
+* `visuals/balance_sheet_trend.png`
+* `report/initial_financial_insights.md`
+
+## Initial Visual Analysis
+
+### Revenue Trend
+
+![Apple Revenue Trend](visuals/revenue_trend.png)
+
+### Profitability Margins
+
+![Apple Profitability Margins](visuals/profitability_margins.png)
+
+### Free Cash Flow Trend
+
+![Apple Free Cash Flow Trend](visuals/free_cash_flow_trend.png)
+
+### Balance Sheet Trend
+
+![Apple Balance Sheet Trend](visuals/balance_sheet_trend.png)
+
+## Initial Findings
+
+Apple’s revenue increased from $365.8B in FY2021 to $416.2B in FY2025. Gross margin improved from 41.8% to 46.9%, showing stronger profitability. Free cash flow remained consistently strong, supporting Apple’s financial flexibility and capacity for shareholder returns.
+
+## Next Steps
+
+* Build a 3-year forecast model
+* Create base, upside, and downside scenarios
+* Build an Excel financial model
+* Create a Power BI or Tableau dashboard
+* Publish final executive summary report
