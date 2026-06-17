@@ -105,8 +105,27 @@ The forecast model starts with Apple’s FY2025 revenue as the baseline and appl
 - **Upside Case:** Stronger revenue growth, margin expansion, and higher free cash flow conversion.
 - **Downside Case:** Slower revenue growth, margin pressure, and lower free cash flow conversion.
 
+## Excel Financial Model
+
+This repository includes a completed Excel financial model:
+
+- `excel_model/apple_financial_analysis_forecast_model.xlsx`
+
+The workbook includes:
+- Historical financial statements
+- Ratio analysis
+- Forecast assumptions
+- 3-year forecast output
+- Executive dashboard
+- Source documentation
+
+## Final Executive Summary
+
+The final executive summary is available here:
+
+- `report/final_executive_summary.md`
+
 ## Next Steps
 
-* Build an Excel financial model
 * Create a Power BI or Tableau dashboard
 * Publish final executive summary report
