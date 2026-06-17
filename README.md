@@ -46,4 +46,4 @@ The goal of this project is to evaluate Apple’s financial health and create an
 - Business recommendations
 
 ## Status
-Project in progress.
+Project in progress. Cleaned financial dataset, source notes, Python analysis script, and initial financial insights have been added.
