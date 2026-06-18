@@ -3,6 +3,18 @@
 ## Project Overview
 This project analyzes Apple Inc.'s historical financial performance using public financial statement data. The analysis focuses on revenue growth, profitability, liquidity, cash flow performance, and a 3-year financial forecast.
 
+## Project Documentation
+
+Detailed project documentation is available in the GitHub Wiki.
+
+- [Wiki Home](../../wiki)
+- Project Methodology
+- Dashboard Summary
+- Forecast Model
+- Key Findings
+- Data Dictionary
+- How to Present This Project
+
 ## Business Objective
 The goal of this project is to evaluate Apple’s financial health and create an executive-level analysis that supports business decision-making, forecasting, and investment review.
 
