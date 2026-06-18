@@ -125,7 +125,23 @@ The final executive summary is available here:
 
 - `report/final_executive_summary.md`
 
-## Next Steps
+## How to Present This Project
 
-* Create a Power BI or Tableau dashboard
-* Publish final executive summary report
+This project can be presented as a financial analysis and FP&A portfolio project. It demonstrates the ability to collect financial data, clean and structure datasets, calculate key financial ratios, build forecast scenarios, create visual analysis, and communicate executive-level insights.
+
+## Skills Demonstrated
+
+- Financial statement analysis
+- FP&A analysis
+- Forecasting and scenario modeling
+- Ratio analysis
+- Free cash flow analysis
+- Excel financial modeling
+- Python data analysis
+- Data visualization
+- Executive reporting
+- GitHub project documentation
+
+## Project Status
+
+Completed initial version. Future enhancements may include a Power BI dashboard, benchmarking against peer companies, and DCF valuation analysis.
